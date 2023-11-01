@@ -1,7 +1,7 @@
 Github URL :  
 https://github.com/sowmyasantoshi4/cpa-assign.git
 
-**SetUp - Installation - Run : **
+SetUp - Installation - Run : 
 1.	Download and installation of Flutter in windows by following steps : 
   -	Goto : https://docs.flutter.dev/get-started/install/windows and download the .zip
   -	Extract into a folder
